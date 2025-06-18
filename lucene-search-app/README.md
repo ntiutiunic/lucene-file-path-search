@@ -229,19 +229,3 @@ mvn clean package
 
 # The JAR will be in target/lucene-search-app-0.0.1-SNAPSHOT.jar
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## 📞 Support
-
-If you encounter any issues or have questions, please open an issue in the repository. 

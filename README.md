@@ -55,7 +55,3 @@ For detailed documentation, see [lucene-search-app/README.md](lucene-search-app/
 - Java 17 or higher
 - Maven 3.6+
 - curl (for testing)
-
-## 📝 License
-
-This project is licensed under the MIT License. 
